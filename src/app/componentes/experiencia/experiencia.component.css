@@ -1,0 +1,32 @@
+.row{
+    padding: 20px;
+}
+div{
+ margin-left: 10px;
+ margin-right: 10px;
+    background: blue;
+}
+h1{color:aliceblue;
+    text-shadow: 1px 1px 1px black;
+    display: inline;
+}
+
+i{
+    float: right;
+position: static;
+position: right;
+    margin: 5px;
+
+}
+img{
+margin:10px ;
+max-width: 50px;}
+h2, h3, h4{
+    color:aliceblue;
+    text-shadow: 1px 1px 1px black;
+    text-align: left;
+}
+p{
+    color:aliceblue;
+    text-shadow: 1px 1px 1px black;
+}

@@ -1,0 +1,15 @@
+nav{ 
+    background-color: blue;
+    margin: 10px;
+}
+app-social{
+    float: right;
+    margin-top: 25px;
+}
+app-logo{
+    float: left;
+    margin-top: 25px;
+}
+app-usuario{
+    float:left
+}

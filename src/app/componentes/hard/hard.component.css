@@ -1,0 +1,43 @@
+
+.row{
+    padding: 10px;
+}
+div{
+    display: inline;
+    margin: 10px;
+    padding: 3px;
+    float: center;
+    margin-right: 10px;
+    margin-left: 10px;
+   
+}
+h1{border-color: rgb(243, 243, 245);
+    color:blue;
+    text-shadow: 1px 1px 1px black;
+margin-left: 15px;}
+
+i{
+    float: online;
+position: static;
+position: right;
+
+    margin: 3px;
+
+}
+circle-progress{
+    float: inline;
+    position: relative;
+    
+}
+.fas{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+

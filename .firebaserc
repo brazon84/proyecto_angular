@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "brazon-8435f"
+  },
+  "targets": {
+    "brazon-8435f": {
+      "hosting": {
+        "brazon": [
+          "brazon-8435f"
+        ]
+      }
+    }
+  }
+}

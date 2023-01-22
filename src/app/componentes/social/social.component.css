@@ -1,0 +1,40 @@
+img{
+    width: 40px;
+    padding: 2px;
+}
+img:hover {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: rgb(145, 145, 236);
+
+}
+img:active {
+    -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+    background: rgb(5, 5, 5); }
+
+button:hover {
+       
+        background: rgb(145, 145, 236);
+    
+    }
+    button:active {
+        
+         
+        background: rgb(14, 13, 13); }
+        button{
+            
+         box-shadow: none;
+            padding: 3px;
+            color:rgb(238, 238, 245);
+            background: blue;
+            display: inline;
+            margin-right: 5px;
+        }
+        .btn{border-width:1px;
+        color: aliceblue;}
+        a{
+            color:aliceblue
+        }

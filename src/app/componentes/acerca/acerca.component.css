@@ -1,0 +1,40 @@
+.row{
+    padding: 10px;
+}
+div{ 
+    background-color: blue;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/*foto*/
+
+
+   
+/*nombre*/
+
+h3, h5, h1{
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30%;
+   
+    text-shadow: 1px 1px 1px rgb(24, 1, 1) ;
+}
+
+#contenido{
+    text-align:center;
+    text-decoration: solid;
+    color:aliceblue;
+    text-shadow: 1px 1px 1px black;
+    }
+    i{
+        float: right;
+    position: right;
+        position: static;
+        margin: 5px;
+    }
+   
+    .fas{
+        cursor: pointer;
+    }
